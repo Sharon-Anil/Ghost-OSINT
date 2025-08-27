@@ -1,0 +1,5 @@
+pillow
+pyfiglet
+exifread
+requests
+beautifulsoup4
